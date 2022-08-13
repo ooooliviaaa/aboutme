@@ -43,4 +43,16 @@ In my personal capacity, I love to do hackathons, or just projects in general fo
 
 - :zap: In my free time, I love to play soccer, travel around, and try out different food. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ollie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivia-li-6b889120a/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ollie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivia-li-6b889120a/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+
+
+
