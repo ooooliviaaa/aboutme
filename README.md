@@ -29,4 +29,11 @@
   
 ---
 ### :woman_technologist: About Me :
-I am a CECS student at USC <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China. 
+I am a CECS student at USC <img src="https://media.giphy.com/media/ByvFuxQhlniu77HjiK/giphy.gif" width="30"> from China. 
+- :telescope: 
+
+- :seedling: Exploring Embedded Engineering.
+
+- :zap: In my free time, I love to play soccer, travel around, and try out different food. 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ollie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivia-li-6b889120a/)
