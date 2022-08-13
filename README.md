@@ -27,3 +27,6 @@
   <img src="https://media.giphy.com/media/AOXNxxIJuBQdNTBblp/giphy.gif" width="25px"/>
 </h1>
   
+---
+### :woman_technologist: About Me :
+I am a CECS student at USC <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China. 
